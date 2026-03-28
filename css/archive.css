@@ -1,0 +1,4 @@
+.effect.social-links:hover img {
+    opacity: 0.8;
+	cursor: -webkit-grab; cursor: -moz-grab;
+}
