@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+   <url> 
+     <loc>https://www.dimitris-ladopoulos.xyz/projects/design-walk.html</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.dimitris-ladopoulos.xyz/projects/design-walk/design-walk-cover.jpg</video:thumbnail_loc>  
+       <video:title>Design Walk, Poles Apart</video:title>
+       <video:description>Design Walk is an event that takes place in Athens, Greece. Visitors have the opportunity to take a walk and visit the city’s most innovative graphic design studios.</video:description>
+       <video:player_loc allow_embed="yes">https://vimeo.com/40620357</video:player_loc>
+       <video:duration>101</video:duration>
+       <video:publication_date>2012-04-18</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly>   
+       <video:tag>design, walk, athens, greece, deep green sea, dgs, poles, apart, motion, graphics, after, effects, cinema, 4d</video:tag>
+       <video:category>Short Film</video:category>
+       <video:gallery_loc title="The Art of Making">https://www.deepgreensea.net</video:gallery_loc>
+       <video:uploader info="https://www.dimitris-ladopoulos.xyz">Dimitris Ladopoulos</video:uploader>
+       <video:live>no</video:live>
+     </video:video> 
+   </url>
+   
+     <url> 
+     <loc>https://www.dimitris-ladopoulos.xyz/projects/the-carpenter.html</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.dimitris-ladopoulos.xyz/projects/the-carpenter/the-carpenter-cover.jpg</video:thumbnail_loc> 
+       <video:title>The Art of Making, The Carpenter</video:title>
+       <video:description>The first video that inspired the creation of the mini series 'The Art of Making'.</video:description>
+       <video:player_loc allow_embed="yes">https://vimeo.com/30698649</video:player_loc>
+       <video:duration>101</video:duration>
+       <video:publication_date>2013-01-07</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly>   
+       <video:tag>art, making, craft, motion, graphics, after, effects, music, film, documentary, greece, deep green sea, dgs, carpenter, wood, saw, mill</video:tag>
+       <video:category>Short Film</video:category>
+       <video:gallery_loc title="The Art of Making">https://www.deepgreensea.net</video:gallery_loc>
+       <video:uploader info="https://www.dimitris-ladopoulos.xyz">Dimitris Ladopoulos</video:uploader>
+       <video:live>no</video:live>
+     </video:video> 
+   </url>
+   
+    <url> 
+     <loc>https://www.dimitris-ladopoulos.xyz/projects/white-tuna.html</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.dimitris-ladopoulos.xyz/projects/white-tuna/white-tuna-cover.jpg</video:thumbnail_loc> 
+       <video:title>White Tuna</video:title>
+       <video:description>Serrats, art in the elaboration of handmade preserves.</video:description>
+       <video:player_loc allow_embed="yes">https://vimeo.com/75145364</video:player_loc>
+       <video:duration>297</video:duration>
+       <video:publication_date>2013-09-22</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly>   
+       <video:tag>Serrats, preserve, Bermeo, Spain, white, tuna, handmade, art</video:tag>
+       <video:category>Short Film</video:category>
+       <video:gallery_loc title="Portfolio">https://www.deepgreensea.net</video:gallery_loc>
+       <video:uploader info="https://www.dimitris-ladopoulos.xyz">Dimitris Ladopoulos</video:uploader>
+       <video:live>no</video:live>
+     </video:video> 
+   </url>
+   
+      <url> 
+     <loc>https://www.dimitris-ladopoulos.xyz/projects/seat-service.html</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.dimitris-ladopoulos.xyz/projects/seat-service/seat-service-cover.jpg</video:thumbnail_loc> 
+       <video:title>SEAT Service</video:title>
+       <video:description>2 minute video showcasing the variety and quality of services offered. The film goes behind SEAT’s Active Reception and travels through the various processes, focusing on the know-how and specialisation of the After Sales team.
+       </video:description>
+       <video:player_loc allow_embed="yes">https://vimeo.com/124824517</video:player_loc>
+       <video:duration>131</video:duration>
+       <video:publication_date>2015-04-13</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly>   
+       <video:tag>SEAT, service, Spain, SONY, FS7, deep green sea, motion, graphics, after effects, toledo</video:tag>
+       <video:category>Corporate Video</video:category>
+       <video:gallery_loc title="Portfolio">https://www.deepgreensea.net</video:gallery_loc>
+       <video:uploader info="https://www.dimitris-ladopoulos.xyz">Dimitris Ladopoulos</video:uploader>
+       <video:live>no</video:live>
+     </video:video> 
+   </url> 
+
+</urlset>
