@@ -479,3 +479,11 @@
 	transition: transform 0.15s ease-out;
 	will-change: transform;
 }
+
+/* Portfolio grid: fixed 4px gap between thumbnails (overrides the theme's
+   percentage-based gutter, which shrinks to 0 on the single-column mobile
+   layout and grows too wide on desktop at the same 1% value). */
+#isotope.portfolio-items .portfolio-item {
+	margin-right: 4px !important;
+	margin-bottom: 4px !important;
+}
