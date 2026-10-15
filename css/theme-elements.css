@@ -1171,7 +1171,8 @@ Headings
 .heading-fancy h3,
 .heading-fancy h4,
 .heading-fancy h5,
-.heading-fancy h6 {
+.heading-fancy h6,
+.heading-fancy h2.h1-alt {
     background-color: #FFF;
     padding-right: 15px;
     margin-bottom: 0;
@@ -1201,7 +1202,8 @@ Headings
 .heading-fancy.text-center h3,
 .heading-fancy.text-center h4,
 .heading-fancy.text-center h5,
-.heading-fancy.text-center h6 {
+.heading-fancy.text-center h6,
+.heading-fancy.text-center h2.h1-alt {
     padding-left: 15px;
 }
 .heading-fancy.text-right h1,
@@ -1209,7 +1211,8 @@ Headings
 .heading-fancy.text-right h3,
 .heading-fancy.text-right h4,
 .heading-fancy.text-right h5,
-.heading-fancy.text-right h6 {
+.heading-fancy.text-right h6,
+.heading-fancy.text-right h2.h1-alt {
     padding-left: 15px;
     padding-right: 0;
 }
@@ -1238,7 +1241,8 @@ Headings
 .heading-title-simple h3,
 .heading-title-simple h4,
 .heading-title-simple h5,
-.heading-title-simple h6 {
+.heading-title-simple h6,
+.heading-title-simple h2.h1-alt {
     margin-bottom: 0;
     position: relative;
 }
@@ -1314,7 +1318,8 @@ Headings
 .heading h1,
 .heading h2,
 .heading h3,
-.heading h4 {
+.heading h4,
+.heading h2.h1-alt {
     color: #303030;
     font-weight: 300;
     letter-spacing: 1px;
@@ -1330,12 +1335,15 @@ content: "";}
     display: block;
     color: #888;
 }
-.heading h1 {
+.heading h1,
+.heading h2.h1-alt {
     font-size: 52px;
     line-height: 54px;
 }
 .heading h1 + span,
-.heading h1 + span.lead {
+.heading h1 + span.lead,
+.heading h2.h1-alt + span,
+.heading h2.h1-alt + span.lead {
     font-size: 22px;
 }
 .heading h2 {
@@ -7631,13 +7639,15 @@ body.device-xxs .box-fancy [class*="col-"] {
 .inspiro-slider .slide-captions h3,
 .inspiro-slider .slide-captions h4,
 .inspiro-slider .slide-captions h5,
-.inspiro-slider .slide-captions h6 {
+.inspiro-slider .slide-captions h6,
+.inspiro-slider .slide-captions h2.h1-alt {
     color: #fff;
     font-family: "Open Sans";
     font-weight: 600;
     letter-spacing: -0.5px;
 }
-.inspiro-slider .slide-captions h1 {
+.inspiro-slider .slide-captions h1,
+.inspiro-slider .slide-captions h2.h1-alt {
     font-size: 80px;
     font-weight: 700;
     line-height: 80px;

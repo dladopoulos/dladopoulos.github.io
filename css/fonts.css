@@ -24,7 +24,8 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+h2.h1-alt {
     
     
 }
@@ -45,7 +46,8 @@ h6 {
 
 /*inspiro slider*/
 .inspiro-slider .slide-captions h1,
-.inspiro-slider .slide-captions h2 {
+.inspiro-slider .slide-captions h2,
+.inspiro-slider .slide-captions h2.h1-alt {
     font-family: "Hind", sans-serif;
 }
 
@@ -58,7 +60,8 @@ body h2,
 body h3,
 body h4,
 body h5,
-body h6 {
+body h6,
+body h2.h1-alt {
     font-family: "Montserrat",sans-serif !important;
 }
 
@@ -84,7 +87,10 @@ body h6 {
 #page-header-bg h1,
 body h1,
 body .row .col.section-title h1,
-.full-width-content .recent-post-container .inner-wrap h2 {
+.full-width-content .recent-post-container .inner-wrap h2,
+#page-header-bg h2.h1-alt,
+body h2.h1-alt,
+body .row .col.section-title h2.h1-alt {
     font-family: Hind;
     font-size: 80px;
     line-height: 80px;
@@ -93,14 +99,18 @@ body .row .col.section-title h1,
 @media only screen and (max-width: 1300px) and (min-width: 1000px) {
     body .row .col.section-title h1,
     body h1,
-    .full-width-content .recent-post-container .inner-wrap h2 {
+    .full-width-content .recent-post-container .inner-wrap h2,
+body .row .col.section-title h2.h1-alt,
+body h2.h1-alt {
         font-size: 56px;
         line-height: 56px
     }
 }
 @media only screen and (max-width: 1000px) and (min-width: 690px) {
     body .row .col.section-title h1,
-    body h1 {
+    body h1,
+body .row .col.section-title h2.h1-alt,
+body h2.h1-alt {
         font-size: 52px;
         line-height: 52px
     }
@@ -111,7 +121,9 @@ body .row .col.section-title h1,
 }
 @media only screen and (max-width: 690px) {
     body .row .col.section-title h1,
-    body h1 {
+    body h1,
+body .row .col.section-title h2.h1-alt,
+body h2.h1-alt {
         font-size: 48px;
         line-height: 48px
     }
@@ -241,7 +253,8 @@ body h6,
 }
 
 
-html body, body h1, body h2, body h3, body h4, body h5, body h6 {
+html body, body h1, body h2, body h3, body h4, body h5, body h6,
+body h2.h1-alt {
   color: #000;
 }
 

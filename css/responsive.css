@@ -44,7 +44,8 @@ Desktops (≥1200px)
         padding: 0 40px
     }
     .inspiro-slider .slide-captions h1,
-    .inspiro-slider .slide-captions h2 {
+    .inspiro-slider .slide-captions h2,
+.inspiro-slider .slide-captions h2.h1-alt {
         font-size: 56px;
         line-height: 56px;
     }
@@ -423,7 +424,8 @@ Desktops (≥992px)
     #page-title {
         padding: 40px 0 !important;
     }
-    #page-title:not(.page-title-small) h1 {
+    #page-title:not(.page-title-small) h1,
+#page-title:not(.page-title-small) h2.h1-alt {
         font-size: 40px !important;
     }
     /*	post columns*/
@@ -544,7 +546,8 @@ Desktops (≥992px)
     }
     /*    inspiro slider*/
     .inspiro-slider .slide-captions h1,
-    .inspiro-slider .slide-captions h2 {
+    .inspiro-slider .slide-captions h2,
+.inspiro-slider .slide-captions h2.h1-alt {
         font-size: 48px;
         line-height: 48px;
         margin-bottom: 16px;
@@ -607,7 +610,8 @@ Tablets (≥768px)
     }
     /*    inspiro slider*/
     .inspiro-slider .slide-captions h1,
-    .inspiro-slider .slide-captions h2 {
+    .inspiro-slider .slide-captions h2,
+.inspiro-slider .slide-captions h2.h1-alt {
         font-size: 30px;
         line-height: 30px;
         margin-bottom: 14px;
@@ -623,7 +627,8 @@ Tablets (≥768px)
     #header.header-fullwidth .container {
         width: 470px !important;
     }
-    #page-title:not(.page-title-small) h1 {
+    #page-title:not(.page-title-small) h1,
+#page-title:not(.page-title-small) h2.h1-alt {
         font-size: 30px !important;
     }
     /*	post columns*/
@@ -668,7 +673,8 @@ Tablets (≥768px)
     .grid-articles.grid-articles-v2:not(.post-carousel) .post-entry:nth-child(2) .post-entry-meta .post-entry-meta-title h2 a {
         font-size: 16px;
     }
-    #page-title:not(.page-title-small) h1 {
+    #page-title:not(.page-title-small) h1,
+#page-title:not(.page-title-small) h2.h1-alt {
         font-size: 30px !important;
     }
     /*	post columns*/

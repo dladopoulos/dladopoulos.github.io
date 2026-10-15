@@ -100,7 +100,9 @@ h4 a,
 h5,
 h5 a,
 h6,
-h6 a {
+h6 a,
+h2.h1-alt,
+h2.h1-alt a {
     color: #111;
     font-family: 'Raleway', sans-serif;
 	font-weight: 600;
@@ -109,7 +111,8 @@ h6 a {
     text-rendering: optimizelegibility;
 }
 
-h1 { font-size: 36px; }
+h1,
+h2.h1-alt { font-size: 36px; }
 
 h2 { font-size: 30px; }
 
@@ -152,7 +155,9 @@ h2.font-raleway,
 h3.font-raleway,
 h4.font-raleway,
 h5.font-raleway,
-h6.font-raleway {
+h6.font-raleway,
+.font-raleway h2.h1-alt,
+h2.h1-alt.font-raleway {
     font-family: 'Raleway' !important;
     font-weight: 100 !important;
 }
@@ -169,7 +174,9 @@ h2.font-nothing-you-could-do,
 h3.font-nothing-you-could-do,
 h4.font-nothing-you-could-do,
 h5.font-nothing-you-could-do,
-h6.font-nothing-you-could-do {
+h6.font-nothing-you-could-do,
+.font-nothing-you-could-do h2.h1-alt,
+h2.h1-alt.font-nothing-you-could-do {
     font-family: 'Nothing You Could Do', cursive !important;
     font-weight: normal !important;
 }
@@ -186,7 +193,9 @@ h2.font-herr-von-muellerhoff,
 h3.font-herr-von-muellerhoff,
 h4.font-herr-von-muellerhoff,
 h5.font-herr-von-muellerhoff,
-h6.font-herr-von-muellerhoff {
+h6.font-herr-von-muellerhoff,
+.font-herr-von-muellerhoff h2.h1-alt,
+h2.h1-alt.font-herr-von-muellerhoff {
     font-family: 'Herr Von Muellerhoff', cursive !important;
     font-weight: normal !important;
 }
@@ -203,7 +212,9 @@ h2.font-cedarville,
 h3.font-cedarville,
 h4.font-cedarville,
 h5.font-cedarville,
-h6.font-cedarville {
+h6.font-cedarville,
+.font-cedarville h2.h1-alt,
+h2.h1-alt.font-cedarville {
     font-family: 'Cedarville Cursive', cursive;
 }
 .font-parisienne,
@@ -219,7 +230,9 @@ h2.font-parisienne,
 h3.font-parisienne,
 h4.font-parisienne,
 h5.font-parisienne,
-h6.font-parisienne {
+h6.font-parisienne,
+.font-parisienne h2.h1-alt,
+h2.h1-alt.font-parisienne {
     font-family: 'Parisienne', cursive;
 }
 
@@ -1953,7 +1966,8 @@ body.wide #header.header-fullwidth nav .main-menu .mega-menu-item .dropdown-menu
     padding-left: 0px;
     padding-right: 0px;
 }
-.page-title h1 {
+.page-title h1,
+.page-title h2.h1-alt {
     display: block;
     font-size: 42px;
     font-weight: 800;
@@ -2011,7 +2025,8 @@ body.wide #header.header-fullwidth nav .main-menu .mega-menu-item .dropdown-menu
 #page-title.page-title-small .page-title {
     margin-top: 20px;
 }
-#page-title.page-title-small .page-title h1 {
+#page-title.page-title-small .page-title h1,
+#page-title.page-title-small .page-title h2.h1-alt {
     font-size: 20px;
     font-weight: 400;
     line-height: 20px;
@@ -2026,7 +2041,8 @@ body.wide #header.header-fullwidth nav .main-menu .mega-menu-item .dropdown-menu
 #page-title.page-title-extended {
     padding: 100px 0;
 }
-.page-title-extended h1 {
+.page-title-extended h1,
+.page-title-extended h2.h1-alt {
     font-size: 60px;
     letter-spacing: 1px;
     font-weight: 800;
@@ -3026,7 +3042,8 @@ body.device-xxs .text-medium-light {
 .text-light li,
 .text-light label,
 .text-light div:not(.alert),
-.text-light span:not(.btn-label) {
+.text-light span:not(.btn-label),
+.text-light h2.h1-alt {
     color: #fff !important;
 }
 
@@ -3049,7 +3066,8 @@ body.device-xxs .text-medium-light {
 .text-dark li,
 .text-dark label,
 .text-dark div:not(.alert),
-.text-dark span:not(.btn-label) {
+.text-dark span:not(.btn-label),
+.text-dark h2.h1-alt {
     color: #111 !important;
 }
 .text-grey,
@@ -3066,7 +3084,8 @@ body.device-xxs .text-medium-light {
 .text-grey li,
 .text-grey label,
 .text-grey div:not(.alert),
-.text-grey span:not(.btn-label) {
+.text-grey span:not(.btn-label),
+.text-grey h2.h1-alt {
     color: #ccc;
 }
 .text-grey a:hover,
