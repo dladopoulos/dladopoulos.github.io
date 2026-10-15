@@ -487,3 +487,7 @@
 	margin-right: 4px !important;
 	margin-bottom: 4px !important;
 }
+
+/* Hero: show black until the slider script has started and the first image is set */
+#hero { background-color: #000; }
+#hero:not(:has(.revslider-initialised)) { min-height: 100vh; }
