@@ -35,4 +35,4 @@ User-agent: *
 Allow: /
 Content-Signal: search=yes, ai-train=no
 
-Sitemap: https://www.dimitris-ladopoulos.xyz/sitemap.xml
+Sitemap: https://dimitris-ladopoulos.xyz/sitemap.xml
